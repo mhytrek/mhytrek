@@ -5,7 +5,7 @@ I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST i
 - :zap:Dynamic Programming:zap:
 - :star:Algorithms:star:
 - :seedling:Object Oriented Programming:seedling:
-- :whale:Cloud (newbie):whale:
+- :cloud:Cloud (newbie):cloud:
 
 ## My stats:
 <p align="center">
