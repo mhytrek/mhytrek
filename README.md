@@ -29,7 +29,6 @@ I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST i
   </a>
 </p>
 
-
 ## **Skills:**
 <p align="center">
   <a href="https://skillicons.dev">
