@@ -11,8 +11,9 @@ I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST i
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mhytrek&show_icons=true&theme=dracula" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mhytrek&theme=dracula" alt="GitHub Streak" /></a> <br>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhytrek&hide_progress=true&theme=dracula" alt="GitHub Streak" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhytrek&hide_progress=true&theme=dracula&hide=jupyter%20notebook,Makefile" alt="GitHub Streak" /></a>
 </p>
+
 
 
 
