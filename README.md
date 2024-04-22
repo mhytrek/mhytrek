@@ -43,6 +43,7 @@ I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST i
 </p>
 
 ## **Skills:**
+<h3 align="center"> Favourites:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,mysql" />
@@ -52,7 +53,7 @@ I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST i
 <h3 align="center"> Have some experience in:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,django" />
+    <img src="https://skillicons.dev/icons?i=html,css,django,latex" />
   </a>
 </p>
 
