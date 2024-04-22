@@ -46,7 +46,7 @@ I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST i
 <h3 align="center"> Favourites:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux" />
   </a>
 </p>
 
