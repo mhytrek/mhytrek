@@ -81,7 +81,6 @@ I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST i
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   
 - :speech_balloon:[Database for company selling courses and webinars](https://github.com/mhytrek/data_base_project):speech_balloon: \
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
 - :mag_right:[Finding location in a 2 dimensional space](https://github.com/mhytrek/Geometric_Algorithms_Project):mag_right: \
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
