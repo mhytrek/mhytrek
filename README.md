@@ -65,25 +65,37 @@ I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST i
   </a>
 </p>
 
+## Best Projects:
 
+:poland: **[SEARCH ENGINE ABOUT POLAND](https://github.com/mhytrek/Poogle)** :poland: <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 
-## **Best projects:**
-- :christmas_tree:[Advent of code with a first mini web scraping project](https://github.com/mhytrek/advent_of_code_2023):christmas_tree: \
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
-- :earth_americas:[World simulation project](https://github.com/mhytrek/Darwin_World):earth_americas: \
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  
-- :fire:[Solving problems with annealing algorithm](https://github.com/mhytrek/Annealing_algorithm):fire: \
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  
-- :speech_balloon:[Database for company selling courses and webinars](https://github.com/mhytrek/data_base_project):speech_balloon: \
-  
-- :mag_right:[Finding location in a 2 dimensional space](https://github.com/mhytrek/Geometric_Algorithms_Project):mag_right: \
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<br>
 
+:camera: **[OPTICAL CHARACTER RECOGNITION](https://github.com/mhytrek/OCR)** :camera: <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+
+<br>
+
+:christmas_tree: **[ADVENT OF CODE WITH A FIRST MINI WEB SCRAPING PROJECT](https://github.com/mhytrek/advent_of_code_2023)** :christmas_tree: <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+
+<br>
+
+:earth_americas: **[WORLD SIMULATION PROJECT](https://github.com/mhytrek/Darwin_World)** :earth_americas: <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+
+<br>
+
+:fire: **[SOLVING PROBLEMS WITH ANNEALING ALGORITHM](https://github.com/mhytrek/Annealing_algorithm)** :fire:  <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+
+<br>
+
+:speech_balloon: **[DATABASE FOR COMPANY SELLING COURSES AND WEBINARS](https://github.com/mhytrek/data_base_project)** :speech_balloon:  <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+
+<br>
+
+:mag_right: **[FINDING LOCATION IN A 2 DIMENSIONAL SPACE](https://github.com/mhytrek/Geometric_Algorithms_Project)** :mag_right:  <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
