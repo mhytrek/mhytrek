@@ -1,11 +1,13 @@
 <h1 align="center"> :hibiscus: Hi, I’m @mhytrek :hibiscus: </h1>
+<h2 align="center"> SWE Intern @ Splunk | CS studnet @ AGH </h2>
 
 ### About me:
-I am a second year :hibiscus:**Computer Science Student**:hibiscus: at AGH UST in Cracow. My passion for programming started during high school and is growing each year. My favourite subjects and topics are:
+I am a Software Engineer passioned about
+- :cloud:Cloud:cloud:
+- :seedling:Automations:seedling:
 - :zap:Dynamic Programming:zap:
 - :star:Algorithms:star:
-- :seedling:Object Oriented Programming:seedling:
-- :cloud:Cloud (newbie):cloud:
+
 
 ## My stats:
 <p align="center">
