@@ -1,5 +1,5 @@
 <h1 align="center"> :hibiscus: Hi, I’m @mhytrek :hibiscus: </h1>
-<h2 align="center"> SWE Intern @ Splunk | CS studnet @ AGH </h2>
+<h2 align="center"> SWE Intern @ Splunk | CS student @ AGH </h2>
 
 ### About me:
 I am a Software Engineer passioned about
